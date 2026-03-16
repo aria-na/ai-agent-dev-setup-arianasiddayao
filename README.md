@@ -17,7 +17,7 @@ Verified using the `git --version` command.
 
 ### 3. VS Code Insiders & GitHub Copilot
 Running the Insiders build with Copilot active.  
-![VS Code Copilot](./screenshots/vs_code_proof.png)
+![VS Code Copilot](./screenshots/vsc_code_proof.png)
 
 ### 4. Claude Desktop & MCP Servers
 Claude Desktop successfully connected to 4 MCP servers.  
