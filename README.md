@@ -9,15 +9,15 @@
 
 ### 1. Node.js Installed
 Verified using the `node --version` command.  
-![Node Version](./screenshots/node-version.png)
+![Node Version](./screenshots/node_version.png)
 
 ### 2. Git Installed
 Verified using the `git --version` command.  
-![Git Version](./screenshots/git-version.png)
+![Git Version](./screenshots/git_version.png)
 
 ### 3. VS Code Insiders & GitHub Copilot
 Running the Insiders build with Copilot active.  
-![VS Code Copilot](./screenshots/vs-code-proof.png)
+![VS Code Copilot](./screenshots/vs_code_proof.png)
 
 ### 4. Claude Desktop & MCP Servers
 Claude Desktop successfully connected to 4 MCP servers.  
