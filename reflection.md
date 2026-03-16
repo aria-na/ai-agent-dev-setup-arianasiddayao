@@ -1,1 +1,13 @@
-WIP
+Setting up my AI Agent development environment was a big eye-opener. The first thing I learned was that not all important files are easy to find. I spent a lot of time looking for the Claude Desktop configuration file. I learned that Windows hides certain folders, like the "AppData" and "Roaming" folders, to protect system settings. Using the %APPDATA% shortcut was a life-saver. It taught me that being a developer means knowing how to navigate the "behind-the-scenes" parts of a computer, not just the folders we see on the Desktop.
+
+The most stressful but valuable part of this week was learning about security. I accidentally shared my GitHub Personal Access Token in the chat, and I quickly realized why that is a bad idea. GitHub’s security bots actually blocked my "push" because they detected the secret key in my code history.
+
+I had to learn how to do a "Hard Reset" on my Git history to wipe away the record of that token. This taught me a "Pro" workflow: I keep my real secrets in a private "Live" file on my C: drive, but I only put placeholders like "YOUR_TOKEN_HERE" in the project folder on my D: drive that goes to GitHub. This way, my code works locally, but my account stays safe from hackers. It was a tough lesson, but I am glad I learned it now rather than later.
+
+Connecting the MCP servers was exciting but tricky. It was cool to see Claude actually "reach out" and use tools on my own computer. However, I ran into a wall with the Google Calendar server. It kept disconnecting because it required complex "API Keys" and "Client IDs" from Google Cloud.
+
+Instead of getting stuck forever, I practiced "triaging." I focused on the servers that worked, like the Rolldice and the Bootcamp Memory Agent. I learned that not every tool works perfectly out of the box, and sometimes you have to switch to a different tool or solve the dependency issues to move forward. Seeing the "Plug" icon finally stay connected felt like a huge victory.
+
+Now that everything is working, I feel much more confident. I used to think of AI as just a chat box, but now I see it as a teammate that can actually do tasks. It can read my files, check my GitHub, and remember things for me using the Memory Agent.
+
+In the future, I want to build an agent that helps me manage my local files or maybe a personal assistant that connects to even more apps. This week was more than just installing software; it was about building the right mindset for a developer. I learned how to restart when things get messy, how to keep my data safe, and how to use AI to help me solve technical problems.
